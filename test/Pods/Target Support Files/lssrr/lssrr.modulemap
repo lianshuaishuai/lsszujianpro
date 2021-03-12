@@ -1,0 +1,6 @@
+framework module lssrr {
+  umbrella header "lssrr-umbrella.h"
+
+  export *
+  module * { export * }
+}

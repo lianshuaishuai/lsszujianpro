@@ -1,3 +1,16 @@
-PODFILE CHECKSUM: 51a5c79edae180bf616c7e0faf3f51d2257b7ef0
+PODS:
+  - lssrr (0.1.0)
+
+DEPENDENCIES:
+  - lssrr (from `Lib/lssrr`)
+
+EXTERNAL SOURCES:
+  lssrr:
+    :path: Lib/lssrr
+
+SPEC CHECKSUMS:
+  lssrr: 66ec069f665123b39357f12dfe8fe1a81ac62896
+
+PODFILE CHECKSUM: e4e630df83c6d2351357e85733fbf601152372b0
 
 COCOAPODS: 1.10.1
